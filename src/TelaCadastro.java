@@ -1,4 +1,4 @@
-package seu.pacote;
+package src;
 
 import javax.swing.JOptionPane;
 
